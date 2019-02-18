@@ -1,4 +1,4 @@
-// RedAndBlack.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// RedAndBlack.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 //#include "stdafx.h"
@@ -7,7 +7,7 @@
 using namespace std;
 //ifstream fin("D:\\test.in");
 //ofstream fout("D:\\test.out");
-//¶ÁÈëµÄÊı¾İÁĞÊıºÍĞĞÊı
+//è¯»å…¥çš„æ•°æ®åˆ—æ•°å’Œè¡Œæ•°
 int W, H;
 int ans = 0;
 char map[21][21];
